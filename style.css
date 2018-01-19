@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-image: url("mazda-vision.jpg");
+    height: 100%;
+    font-family: 'Pangolin', serif;
+    font-size: 18px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
